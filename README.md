@@ -59,9 +59,9 @@ In tableau, there 3 types of entries: work sheet, dashboard and story. Single gr
 
 Summary
 •	There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-•	For most part the presentation is convincing, however it is not the final product. To get investor money, one would need at least a “business plan” and a reasonable presentation in power point, with Excel and Tableau inserts. Investors want to know return on investment and cash flow and breakeven point. So this is the first step.
-•	Another aspect investment is who is minding the store? Who is the management team. The qualifications and experience of the people in management. 
-To sum it up MBAs are needed to pull this plan together. They can make the business plan and the cash flow diagrams, show the break- even point, and Return on Investment.
+•	For most part the presentation is convincing, however it is not the final product. To get investor money, one would need at least a “business plan” and a reasonable presentation in power point, with Excel and Tableau inserts. Investors want to know the return on investment and cash flow and breakeven point. So this is the first step.
+•	Another aspect of investment is who is minding the store? Who is the management team. The qualifications and experience of the people in management have to be articulated and the management team generate confidence.
+To sum it up MBAs are needed to pull this plan together. They can make the business plan and the cash flow diagrams, show the break- even point, and the Return on Investment.
 
 
 
